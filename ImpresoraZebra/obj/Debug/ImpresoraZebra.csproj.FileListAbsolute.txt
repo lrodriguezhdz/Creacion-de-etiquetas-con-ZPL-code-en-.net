@@ -1,0 +1,10 @@
+C:\Users\Luis\Desktop\Trabajo\ZebraTesting\ImpresoraZebra\bin\Debug\ImpresoraZebra.exe.config
+C:\Users\Luis\Desktop\Trabajo\ZebraTesting\ImpresoraZebra\bin\Debug\ImpresoraZebra.exe
+C:\Users\Luis\Desktop\Trabajo\ZebraTesting\ImpresoraZebra\bin\Debug\ImpresoraZebra.pdb
+C:\Users\Luis\Desktop\Trabajo\ZebraTesting\ImpresoraZebra\obj\Debug\ImpresoraZebra.csproj.AssemblyReference.cache
+C:\Users\Luis\Desktop\Trabajo\ZebraTesting\ImpresoraZebra\obj\Debug\ImpresoraZebra.Form1.resources
+C:\Users\Luis\Desktop\Trabajo\ZebraTesting\ImpresoraZebra\obj\Debug\ImpresoraZebra.Properties.Resources.resources
+C:\Users\Luis\Desktop\Trabajo\ZebraTesting\ImpresoraZebra\obj\Debug\ImpresoraZebra.csproj.GenerateResource.cache
+C:\Users\Luis\Desktop\Trabajo\ZebraTesting\ImpresoraZebra\obj\Debug\ImpresoraZebra.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Desktop\Trabajo\ZebraTesting\ImpresoraZebra\obj\Debug\ImpresoraZebra.exe
+C:\Users\Luis\Desktop\Trabajo\ZebraTesting\ImpresoraZebra\obj\Debug\ImpresoraZebra.pdb

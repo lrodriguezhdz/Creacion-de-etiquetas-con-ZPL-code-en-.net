@@ -1,0 +1,10 @@
+C:\Users\Luis\Desktop\Trabajo\ZebraTesting\ZebraTesting\bin\Debug\ZebraTesting.exe.config
+C:\Users\Luis\Desktop\Trabajo\ZebraTesting\ZebraTesting\bin\Debug\ZebraTesting.exe
+C:\Users\Luis\Desktop\Trabajo\ZebraTesting\ZebraTesting\bin\Debug\ZebraTesting.pdb
+C:\Users\Luis\Desktop\Trabajo\ZebraTesting\ZebraTesting\obj\Debug\ZebraTesting.csproj.AssemblyReference.cache
+C:\Users\Luis\Desktop\Trabajo\ZebraTesting\ZebraTesting\obj\Debug\ZebraTesting.Form1.resources
+C:\Users\Luis\Desktop\Trabajo\ZebraTesting\ZebraTesting\obj\Debug\ZebraTesting.Properties.Resources.resources
+C:\Users\Luis\Desktop\Trabajo\ZebraTesting\ZebraTesting\obj\Debug\ZebraTesting.csproj.GenerateResource.cache
+C:\Users\Luis\Desktop\Trabajo\ZebraTesting\ZebraTesting\obj\Debug\ZebraTesting.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Desktop\Trabajo\ZebraTesting\ZebraTesting\obj\Debug\ZebraTesting.exe
+C:\Users\Luis\Desktop\Trabajo\ZebraTesting\ZebraTesting\obj\Debug\ZebraTesting.pdb
